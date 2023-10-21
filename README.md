@@ -1,2 +1,2 @@
-# Flash-Donate
- A web app built for shadaqah which uses Bitcoin Lightning Network.
+# Flaskr - A Flask Tutorial
+ Flask Tutorial. A task list web app using Flask.
